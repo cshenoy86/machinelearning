@@ -29,4 +29,12 @@ File used: `car data.csv`
 
 ## 🚀 To Run This Project
 1. Download `car data.csv` and place it in the same folder
-2. Install required libraries:
+2. Install required libraries:pip install -r requirements.txt
+3. Open the notebook and run the cells
+
+## 📊 Sample Evaluation Metrics
+- R² Score
+- Mean Squared Error
+
+## 📁 Folder Structure
+02-car-price-prediction/ ├── car_price_prediction.ipynb ├── README.md └── requirements.txt
