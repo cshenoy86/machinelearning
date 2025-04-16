@@ -25,3 +25,4 @@ We used:
 ---
 
 ## 📂 Folder Structure
+iris-classification/ ├── iris_classification.ipynb ├── README.md └── requirements.txt
